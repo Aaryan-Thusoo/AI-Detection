@@ -1,0 +1,8 @@
+pandas          # loading and manipulating the message datasets
+numpy           # numerical operations, used under the hood by most of these
+scikit-learn    # gradient boosting, PCA, K-means/hierarchical clustering, evaluation metrics
+sentence-transformers  # generates the message embeddings everything else builds on
+matplotlib      # plotting (PCA visualization, confusion matrices, etc.)
+seaborn         # nicer statistical plots on top of matplotlib
+networkx        # the similarity graph + community detection for scam campaigns
+xgboost
